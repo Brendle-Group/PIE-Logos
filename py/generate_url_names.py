@@ -42,3 +42,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# py generate_url_names.py "C:\Users\BGDatabaseService\Documents\PIE-Logos\Colorado" -o output.csv
